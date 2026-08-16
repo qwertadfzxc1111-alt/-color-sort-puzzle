@@ -1,0 +1,670 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": 1,
+      "name": "Bloom 01",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral"
+        ],
+        [
+          "amber",
+          "amber",
+          "amber",
+          "amber"
+        ],
+        [
+          "coral"
+        ],
+        [
+          "coral",
+          "coral"
+        ]
+      ],
+      "difficulty": "بداية"
+    },
+    {
+      "id": 2,
+      "name": "Bloom 02",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "coral"
+        ],
+        [
+          "amber",
+          "amber",
+          "coral",
+          "amber"
+        ],
+        [
+          "amber"
+        ],
+        []
+      ],
+      "difficulty": "بداية"
+    },
+    {
+      "id": 3,
+      "name": "Bloom 03",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "amber"
+        ],
+        [
+          "amber",
+          "amber"
+        ],
+        [
+          "coral"
+        ],
+        [
+          "amber",
+          "coral"
+        ]
+      ],
+      "difficulty": "بداية"
+    },
+    {
+      "id": 4,
+      "name": "Bloom 04",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral"
+        ],
+        [
+          "amber",
+          "coral"
+        ],
+        [
+          "amber",
+          "amber",
+          "amber",
+          "coral"
+        ],
+        [
+          "coral"
+        ]
+      ],
+      "difficulty": "بداية"
+    },
+    {
+      "id": 5,
+      "name": "Bloom 05",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "mint"
+        ],
+        [
+          "amber",
+          "amber",
+          "amber",
+          "amber"
+        ],
+        [
+          "mint",
+          "mint"
+        ],
+        [
+          "coral",
+          "mint"
+        ],
+        [
+          "coral"
+        ]
+      ],
+      "difficulty": "نمو"
+    },
+    {
+      "id": 6,
+      "name": "Bloom 06",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "coral",
+          "amber"
+        ],
+        [
+          "amber"
+        ],
+        [
+          "mint",
+          "mint",
+          "mint"
+        ],
+        [
+          "amber"
+        ],
+        [
+          "coral",
+          "amber",
+          "mint"
+        ]
+      ],
+      "difficulty": "نمو"
+    },
+    {
+      "id": 7,
+      "name": "Bloom 07",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral"
+        ],
+        [
+          "amber",
+          "amber",
+          "coral",
+          "mint"
+        ],
+        [
+          "mint"
+        ],
+        [
+          "amber",
+          "coral",
+          "mint",
+          "mint"
+        ],
+        [
+          "amber"
+        ]
+      ],
+      "difficulty": "نمو"
+    },
+    {
+      "id": 8,
+      "name": "Bloom 08",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "mint",
+          "amber"
+        ],
+        [
+          "amber",
+          "amber"
+        ],
+        [
+          "mint",
+          "amber"
+        ],
+        [
+          "coral",
+          "mint"
+        ],
+        [
+          "coral",
+          "mint"
+        ]
+      ],
+      "difficulty": "نمو"
+    },
+    {
+      "id": 9,
+      "name": "Bloom 09",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "amber"
+        ],
+        [
+          "amber"
+        ],
+        [
+          "mint",
+          "mint",
+          "mint",
+          "coral"
+        ],
+        [
+          "amber"
+        ],
+        [
+          "mint",
+          "coral",
+          "amber"
+        ]
+      ],
+      "difficulty": "نمو"
+    },
+    {
+      "id": 10,
+      "name": "Bloom 10",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "mint",
+          "amber"
+        ],
+        [
+          "amber"
+        ],
+        [
+          "mint",
+          "coral",
+          "amber"
+        ],
+        [
+          "mint",
+          "coral",
+          "amber"
+        ],
+        [
+          "mint"
+        ]
+      ],
+      "difficulty": "نمو"
+    },
+    {
+      "id": 11,
+      "name": "Bloom 11",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "mint",
+          "amber"
+        ],
+        [
+          "amber",
+          "amber"
+        ],
+        [
+          "mint",
+          "mint",
+          "coral"
+        ],
+        [
+          "sky",
+          "sky",
+          "sky",
+          "sky"
+        ],
+        [
+          "coral",
+          "amber"
+        ],
+        [
+          "mint",
+          "coral"
+        ]
+      ],
+      "difficulty": "تفتح"
+    },
+    {
+      "id": 12,
+      "name": "Bloom 12",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral"
+        ],
+        [
+          "amber"
+        ],
+        [
+          "mint",
+          "mint",
+          "amber",
+          "amber"
+        ],
+        [
+          "sky",
+          "mint",
+          "coral"
+        ],
+        [
+          "sky",
+          "sky",
+          "mint"
+        ],
+        [
+          "sky",
+          "coral",
+          "amber"
+        ]
+      ],
+      "difficulty": "تفتح"
+    },
+    {
+      "id": 13,
+      "name": "Bloom 13",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "coral",
+          "amber"
+        ],
+        [
+          "amber"
+        ],
+        [
+          "mint",
+          "sky",
+          "sky",
+          "amber"
+        ],
+        [
+          "sky"
+        ],
+        [
+          "mint",
+          "mint",
+          "sky",
+          "coral"
+        ],
+        [
+          "mint",
+          "amber"
+        ]
+      ],
+      "difficulty": "تفتح"
+    },
+    {
+      "id": 14,
+      "name": "Bloom 14",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "sky"
+        ],
+        [
+          "amber",
+          "mint",
+          "mint",
+          "coral"
+        ],
+        [
+          "mint",
+          "sky"
+        ],
+        [
+          "sky"
+        ],
+        [
+          "coral",
+          "sky"
+        ],
+        [
+          "amber",
+          "amber",
+          "amber",
+          "mint"
+        ]
+      ],
+      "difficulty": "تفتح"
+    },
+    {
+      "id": 15,
+      "name": "Bloom 15",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "sky",
+          "coral"
+        ],
+        [
+          "amber",
+          "mint"
+        ],
+        [
+          "mint"
+        ],
+        [
+          "sky",
+          "amber",
+          "sky",
+          "mint"
+        ],
+        [
+          "coral",
+          "amber",
+          "mint",
+          "amber"
+        ],
+        [
+          "sky"
+        ]
+      ],
+      "difficulty": "تفتح"
+    },
+    {
+      "id": 16,
+      "name": "Bloom 16",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "coral",
+          "amber"
+        ],
+        [
+          "amber",
+          "violet"
+        ],
+        [
+          "mint",
+          "mint",
+          "coral"
+        ],
+        [
+          "sky",
+          "sky",
+          "amber",
+          "violet"
+        ],
+        [
+          "violet"
+        ],
+        [
+          "sky",
+          "violet"
+        ],
+        [
+          "mint",
+          "mint",
+          "sky",
+          "amber"
+        ]
+      ],
+      "difficulty": "حديقة"
+    },
+    {
+      "id": 17,
+      "name": "Bloom 17",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "sky"
+        ],
+        [
+          "amber",
+          "violet",
+          "violet",
+          "sky"
+        ],
+        [
+          "mint",
+          "mint",
+          "sky"
+        ],
+        [
+          "sky"
+        ],
+        [
+          "violet",
+          "coral",
+          "coral",
+          "violet"
+        ],
+        [
+          "amber",
+          "mint"
+        ],
+        [
+          "amber",
+          "amber",
+          "mint",
+          "coral"
+        ]
+      ],
+      "difficulty": "حديقة"
+    },
+    {
+      "id": 18,
+      "name": "Bloom 18",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "coral",
+          "mint"
+        ],
+        [
+          "amber",
+          "amber",
+          "amber",
+          "coral"
+        ],
+        [
+          "mint"
+        ],
+        [
+          "sky",
+          "sky",
+          "sky",
+          "mint"
+        ],
+        [
+          "violet",
+          "violet",
+          "amber",
+          "coral"
+        ],
+        [
+          "violet",
+          "violet",
+          "sky"
+        ],
+        [
+          "mint"
+        ]
+      ],
+      "difficulty": "حديقة"
+    },
+    {
+      "id": 19,
+      "name": "Bloom 19",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral"
+        ],
+        [
+          "amber",
+          "amber",
+          "amber",
+          "mint"
+        ],
+        [
+          "mint",
+          "mint",
+          "sky"
+        ],
+        [
+          "sky",
+          "coral",
+          "coral",
+          "sky"
+        ],
+        [
+          "violet"
+        ],
+        [
+          "violet",
+          "violet",
+          "violet",
+          "amber"
+        ],
+        [
+          "mint",
+          "sky",
+          "coral"
+        ]
+      ],
+      "difficulty": "حديقة"
+    },
+    {
+      "id": 20,
+      "name": "Bloom 20",
+      "capacity": 4,
+      "tubes": [
+        [
+          "coral",
+          "amber",
+          "violet",
+          "mint"
+        ],
+        [
+          "amber",
+          "coral"
+        ],
+        [
+          "mint",
+          "mint",
+          "violet"
+        ],
+        [
+          "sky"
+        ],
+        [
+          "violet",
+          "sky"
+        ],
+        [
+          "amber",
+          "coral",
+          "mint",
+          "sky"
+        ],
+        [
+          "amber",
+          "coral",
+          "violet",
+          "sky"
+        ]
+      ],
+      "difficulty": "حديقة"
+    }
+  ]
+}
