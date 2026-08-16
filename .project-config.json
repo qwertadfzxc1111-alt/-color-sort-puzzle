@@ -1,0 +1,42 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [
+    "db",
+    "server",
+    "user"
+  ],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "DATABASE_URL": "mysql://3QpbcesTmybF2uj.root:8HuPQ1PYM33gSCas4j7x@gateway03.us-east-1.prod.aws.tidbcloud.com:4000/fojJdkcTKoLygBfvekkP6s?ssl={\"rejectUnauthorized\":true}",
+    "DRIZZLE_DATABASE_URL": "mysql://3QpbcesTmybF2uj.root:8HuPQ1PYM33gSCas4j7x@gateway03.us-east-1.prod.aws.tidbcloud.com:4000/fojJdkcTKoLygBfvekkP6s?ssl={\"rejectUnauthorized\":true}",
+    "MANUS_WEBDEV_PROJECT_ID": "fojJdkcTKoLygBfvekkP6s"
+  },
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/fojJdkcTKoLygBfvekkP6s.git",
+    "expiration": "2026-08-17T16:38:54.091Z",
+    "token": "art_v2_x_fad1b310f9733f970df5a71c084e0aa773acbcc0?expires=1786984734",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "color-pour-game",
+  "path": "/home/ubuntu/color-pour-game",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "9NH9CCzpWvFjtNsXgSkGRf",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "BbozcMDEnPJFvUkcwh5wcG",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Pp Pp",
+    "OWNER_OPEN_ID": "TkA7kQBSL6jgQBHN9RH7oj",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "5412cf13-e2a6-4d26-bfdb-5cee8eb4a6a1",
+    "VITE_APP_ID": "fojJdkcTKoLygBfvekkP6s",
+    "VITE_APP_LOGO": "https://files.manuscdn.com/user_upload_by_module/web_dev_logo/310519663879107119/rwZBCvYhxzXIBzaC.png",
+    "VITE_APP_TITLE": "Color Pour: Sort \u0026 Bloom",
+    "VITE_FRONTEND_FORGE_API_KEY": "GeYN4cspJ5EjMyWC6aLz25",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
