@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.colorpour.sortandbloom" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android">
+  <name>Color Pour: Sort &amp; Bloom</name>
+  <description>لعبة ألغاز عمودية لترتيب الألوان وإنماء حديقة مصغرة.</description>
+  <author email="hello@example.com" href="https://github.com/qwertadfzxc1111-alt/-color-sort-puzzle">Color Pour Studio</author>
+  <content src="index.html" />
+  <access origin="*" />
+  <allow-intent href="http://*/*" />
+  <allow-intent href="https://*/*" />
+  <preference name="Orientation" value="portrait" />
+  <preference name="Fullscreen" value="true" />
+  <preference name="AndroidWindowSplashScreenBackground" value="#FFF8E8" />
+  <preference name="AndroidWindowSplashScreenAnimatedIcon" value="/manus-storage/color-pour-logo-mark_b59688f7.png" />
+  <platform name="android">
+    <preference name="AndroidXEnabled" value="true" />
+    <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
+      <application android:usesCleartextTraffic="false" />
+    </edit-config>
+  </platform>
+</widget>
