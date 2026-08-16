@@ -1,0 +1,21 @@
+{
+  "name": "Color Pour: Sort & Bloom",
+  "short_name": "Color Pour",
+  "description": "لعبة ألغاز هادئة لترتيب الألوان وإنماء حديقة صغيرة.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#FFF8E8",
+  "theme_color": "#FFF8E8",
+  "icons": [
+    {
+      "src": "/manus-storage/color-pour-logo-mark_b59688f7.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
